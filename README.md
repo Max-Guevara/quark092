@@ -1,4 +1,4 @@
-#Quark Core integration/staging tree
+# Quark Core integration/staging tree
 http://www.qrk.cc
 
 Copyright (c) 2009-2014 Bitcoin Core Developers Copyright (c) 2013-2014 Quark Core Developers
